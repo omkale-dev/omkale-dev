@@ -1,29 +1,21 @@
  
 ### <div align="center">Hey, I am OM. I am a data engineer.</div>  
   
+Still relatively green🌱 in the field of data engineering but eager to share my journey so far.
 
-- 🐍 PySpark is a tool I've grown quite comfortable with; it's been really helpful for me in handling data processing tasks.  
-  
+- ☁️ Starting off with data extraction, I've delved into AWS services like Glue, Lambda, and S3. These tools have been instrumental in fetching data from various sources and storing it securely in the cloud.
 
-- 🚀 Python is a language I enjoy using; I've found it to be versatile for scripting various data-related tasks.  
-  
+- 🐍 Once the data is extracted, I've leaned on PySpark to process and transform it efficiently. Its capabilities have been invaluable in handling large volumes of data and performing complex transformations.
 
-- **☁️ I've had the chance to work with AWS services like Glue, Lambda, and S3; they've been great for building data pipelines in the cloud.**  
-  
+- 🏗️ As I progress through the pipeline, I've explored data modeling and optimization techniques. Concepts like data integrity and performance optimization have been key areas of focus, with tools like Delta Lake and Snowflake aiding in the process.
 
-- 🎩 Apache Airflow has been an interesting tool for me; it helps me orchestrate data workflows smoothly.  
-  
+- 📊 Moving further down the pipeline, AWS Data Engineering services come into play. Tools like AWS LakeFormation and Athena have provided simplified solutions for managing data lakes and querying data efficiently.
 
-- 📊 I've had some experience with AWS Data Engineering services; they've helped me handle ETL processes and set up data warehousing solutions.  
-  
+- 🎩 Orchestrating the entire workflow, Apache Airflow has been a game-changer. Its workflow management capabilities have streamlined the process, allowing for smooth execution and monitoring of data pipelines.
 
-- 🏗️ Data modeling and optimization have been areas of interest for me; I strive to make data analysis as seamless as possible.  
-  
+- 📈 Finally, as the data is prepared and processed, visualization becomes paramount. This is where tools like QuickSight step in, providing intuitive and interactive visualizations to derive insights from the data.
 
-- 📈 I've had some exposure to working with big data and distributed computing frameworks; it's been a learning journey for me.  
-  
-
-- 🧩 Problem-solving is a skill I've developed over time; I enjoy tackling data engineering challenges and finding solutions.
+- 🧩 Throughout this journey, problem-solving has been at the forefront. Each step of the pipeline presents its own set of challenges, but it's through overcoming these challenges that I continue to learn and grow in the field of data engineering.
   
   
 
