@@ -1,5 +1,5 @@
  
-### <div align="center">Hey, I am OM. I am a data engineer.</div>  
+## Hey, I am OM. I am a data engineer.
   
 Still relatively green🌱 in the field of data engineering but eager to share my journey so far.
 
@@ -21,7 +21,7 @@ Still relatively green🌱 in the field of data engineering but eager to share m
 
 <br/>
 
-### 🛠️ My Tech Exposure:
+## 🛠️ My Tech Exposure:
 
 #### Data Engineering Tools:
 - PySpark
