@@ -45,6 +45,7 @@ Still relatively green🌱 in the field of data engineering but eager to share m
 - MWAA
 
 #### Other Tools:
+- Snowflake
 - Apache Airflow
 - CI/CD
 
