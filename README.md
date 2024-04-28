@@ -32,7 +32,17 @@ Still relatively green🌱 in the field of data engineering but eager to share m
 - AWS Lambda
 - AWS S3
 - AWS Glue
-- AWS Redshift/RDS/Snowflake
+- AWS Redshift Serverless
+- AWS RDS
+- AWS LakeFormation
+- Amazon Athena
+- AWS CloudFormation
+- AWS IAM (Identity and Access Management)
+- Amazon CloudWatch
+- AWS Step Functions
+- Amazon DynamoDB
+- Amazon API Gateway
+- MWAA
 
 #### Other Tools:
 - Apache Airflow
