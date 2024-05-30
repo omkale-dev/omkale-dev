@@ -16,10 +16,14 @@ Still relatively green🌱 in the field of data engineering but eager to share m
 - 📈 Finally, as the data is prepared and processed, visualization becomes paramount. This is where tools like QuickSight step in, providing intuitive and interactive visualizations to derive insights from the data.
 
 - 🧩 Throughout this journey, problem-solving has been at the forefront. Each step of the pipeline presents its own set of challenges, but it's through overcoming these challenges that I continue to learn and grow in the field of data engineering.
-  
-  
 
-<br/>
+---
+
+> ### Here's a project where I've applied my learnings. I hope you find it useful and informative.
+> [End to End AWS Glue Project](https://github.com/your-username/your-repository-name) 
+
+---
+
 
 ## 🛠️ My Tech Exposure:
 
