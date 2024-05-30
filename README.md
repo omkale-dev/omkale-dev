@@ -20,7 +20,7 @@ Still relatively green🌱 in the field of data engineering but eager to share m
 ---
 
 > ### Here's a project where I've applied my learnings. I hope you find it useful and informative.
-> [End to End AWS Glue Project](https://github.com/your-username/your-repository-name) 
+> [End to End AWS Glue Project](https://github.com/omkale-dev/end-to-end-aws-glue-project) 
 
 ---
 
