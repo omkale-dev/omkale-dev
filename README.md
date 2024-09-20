@@ -1,38 +1,44 @@
- 
-## Hey, I am OM. I am a data engineer.
-  
-Still relatively green🌱 in the field of data engineering but eager to share my journey so far.
+## Hey, I am OM. I am an Software Engineer with a Data Engineering background.
 
-- ☁️ Starting off with data extraction, I've delved into AWS services like Glue, Lambda, and S3. These tools have been instrumental in fetching data from various sources and storing it securely in the cloud.
+With a strong foundation in data engineering, I've now transitioned into the field of AI, focusing on building intelligent applications powered by AI agents and Retrieval-Augmented Generation (RAG). I’m excited to share my journey so far.
 
-- 🐍 Once the data is extracted, I've leaned on PySpark to process and transform it efficiently. Its capabilities have been invaluable in handling large volumes of data and performing complex transformations.
+- ☁️ **Data Extraction & Management:** I started by leveraging AWS services like Glue, Lambda, and S3 for data extraction and storage. These tools have been essential for managing and securing data from various sources in the cloud.
 
-- 🏗️ As I progress through the pipeline, I've explored data modeling and optimization techniques. Concepts like data integrity and performance optimization have been key areas of focus, with tools like Delta Lake and Snowflake aiding in the process.
+- 🐍 **Data Processing:** PySpark was my go-to for efficient data processing and transformation. I’ve handled large datasets and performed complex transformations to make data AI-ready.
 
-- 📊 Moving further down the pipeline, AWS Data Engineering services come into play. Tools like AWS LakeFormation and Athena have provided simplified solutions for managing data lakes and querying data efficiently.
+- 🏗️ **Data Modeling & Optimization:** My journey involved working on data modeling and performance optimization. I focused on data integrity, leveraging tools like Delta Lake and Snowflake to streamline data management.
 
-- 🎩 Orchestrating the entire workflow, Apache Airflow has been a game-changer. Its workflow management capabilities have streamlined the process, allowing for smooth execution and monitoring of data pipelines.
+- 🤖 **AI-Powered Solutions:** Now, I apply my skills to develop AI applications, particularly using tools like LangChain for Retrieval-Augmented Generation (RAG) and Pinecone for intelligent information retrieval.
 
-- 📈 Finally, as the data is prepared and processed, visualization becomes paramount. This is where tools like QuickSight step in, providing intuitive and interactive visualizations to derive insights from the data.
+- 🔄 **End-to-End Pipelines:** From data extraction to AI model interaction, I build full pipelines. My experience includes automating AI-based workflows with AWS services like Fargate, Lambda, and Step Functions, while ensuring seamless integration between components.
 
-- 🧩 Throughout this journey, problem-solving has been at the forefront. Each step of the pipeline presents its own set of challenges, but it's through overcoming these challenges that I continue to learn and grow in the field of data engineering.
+- 🎩 **Workflow Orchestration:** Tools like Apache Airflow have been instrumental in orchestrating workflows in both data engineering and AI projects. I’ve used it to manage complex pipelines efficiently.
 
----
+- 🚀 **AI Agents & Applications:** In the realm of AI, I focus on building intelligent agents that can use multiple tools to solve tasks, making AI solutions more effective and responsive to user needs.
 
-> ### Here's a project where I've applied my learnings. I hope you find it useful and informative.
-> [End to End AWS Glue Project](https://github.com/omkale-dev/end-to-end-aws-glue-project) 
+- 📈 **Visualization & Insights:** For data-driven insights, I use tools like QuickSight, creating intuitive visualizations to derive meaningful interpretations from data and AI model outputs.
+
+- 🧩 **Problem Solving & Growth:** Throughout this journey, problem-solving remains key. Whether in data engineering or AI, I continuously learn and grow by overcoming challenges.
 
 ---
 
+> ### Here's a project showcasing my journey from data engineering to AI application development. I hope you find it informative.
+> [End to End AI-Powered RAG Project](https://github.com/omkale-dev/ai-powered-rag-project)
+
+---
 
 ## 🛠️ My Tech Exposure:
 
-#### Data Engineering Tools:
-- PySpark
+#### AI & Data Engineering Tools:
+- LangChain
+- Pinecone
+- Bedrock
 - Python
-- SQL
+- RAG
+- AI Agents
 
 #### AWS Services:
+- AWS Fargate
 - AWS Lambda
 - AWS S3
 - AWS Glue
@@ -53,9 +59,8 @@ Still relatively green🌱 in the field of data engineering but eager to share m
 - Apache Airflow
 - CI/CD
 
-And learning more...
+And learning more in the realm of AI every day...
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -69,7 +74,6 @@ And learning more...
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
